@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lection\Examle001\bin\Debug\net7.0\Examle001.exe
+D:\GeekBrains\C#\Lection\Examle001\bin\Debug\net7.0\Examle001.deps.json
+D:\GeekBrains\C#\Lection\Examle001\bin\Debug\net7.0\Examle001.runtimeconfig.json
+D:\GeekBrains\C#\Lection\Examle001\bin\Debug\net7.0\Examle001.dll
+D:\GeekBrains\C#\Lection\Examle001\bin\Debug\net7.0\Examle001.pdb
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.AssemblyInfo.cs
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.dll
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\refint\Examle001.dll
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.pdb
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\Examle001.genruntimeconfig.cache
+D:\GeekBrains\C#\Lection\Examle001\obj\Debug\net7.0\ref\Examle001.dll
